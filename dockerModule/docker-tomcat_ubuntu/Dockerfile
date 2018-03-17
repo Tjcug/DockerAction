@@ -34,5 +34,5 @@ RUN chmod +x /run.sh
 
 USER root
 
-EXPOSE 8080]
+EXPOSE 8080
 CMD ["/run.sh"]
